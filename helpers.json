@@ -1,0 +1,21 @@
+{
+    "icon": "icon-url",
+    "platform": "quarantaenehelden",
+    "url-to-platform": "https://www.quarantaenehelden.org/"
+    "last-update": 012345689, // timestamp
+    "helpers": [
+        {
+            "internal-id": "gsfdsf3434sds",
+            "create-timestamp": 123456789,
+            "deep-link": "https://www.quarantaenehelden.org/helper/gsfdsf3434sds",
+            "location": {
+                "lat": lat,
+                "lng": lng,
+                "zip": zip,
+                "country": "de"
+            },
+            "description": "text",
+            "state": "not solved" // should be standardized (ENUM)
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "icon": "icon-url",
+    "platform": "quarantaenehelden",
+    "postings": [
+        {
+            "category": "ask-for-help",
+            "create-timestamp": 123456789,
+            "deeplink": "url",
+            "name": "John Doe", // optional
+            "contact": {
+                "email": "mail@johnd.oe", // optional
+                "phone": 1234567890 // optional
+            },
+            "location": {
+                "lat": lat,
+                "lng": lng,
+                "zip": zip,
+                "country": "de"
+            },
+            "description": "text",
+            "notifications": 0,
+            "answers": 0,
+            "state": "not solved"
+        },
+        {
+            "category": "helper",
+            "create-timestamp": 123456789,
+            "deeplink": "url",
+            "name": "John Doe", // optional
+            "bio": "that's me", // optional
+            "contact": {
+                "email": "mail@johnd.oe", // optional
+                "phone": 1234567890 // optional
+            },
+            "location": {
+                "lat": lat,
+                "lng": lng,
+                "zip": zip,
+                "country": "de"
+            }
+        }
+    ]
+}
